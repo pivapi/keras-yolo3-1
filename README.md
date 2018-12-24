@@ -114,3 +114,5 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
 
 ## 自己的实验记录
 
+### Inference没有问题，用的虚拟环境是MRCNN
+
