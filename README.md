@@ -121,4 +121,5 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
    - 将batch size由4改成8，mAP为0.9737
    - lr有1e-4改成1e-3,mAP=0.9756
 3. 训练VOC
-   -
+   - 平台：2070，虚拟环境：MRCNN
+   - 能够训练。
