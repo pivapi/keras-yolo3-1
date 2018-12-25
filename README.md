@@ -116,3 +116,4 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
 
 1. Inference没有问题，用的虚拟环境是MRCNN
 2. 训练Raccoon数据集的时候，总是在epoch=10左右的时候就early stop了，mAP=0.59左右，远低于给出的mAP。
+   费了好大功夫，终于下载到完整的backend.h，终于可以正常的训练了。
