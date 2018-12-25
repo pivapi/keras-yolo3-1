@@ -120,3 +120,5 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
    - 用backend训练了30 epochs，early stop,mAP 0.9048，还是很有差距。
    - 将batch size由4改成8，mAP为0.9737
    - lr有1e-4改成1e-3,mAP=0.9756
+3. 训练VOC
+   -
