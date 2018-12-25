@@ -123,3 +123,4 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
 3. 训练VOC
    - 平台：2070，虚拟环境：MRCNN
    - lr 1e-4 mAP=0.6258
+     lr 5e-4 mAP=0.5353
