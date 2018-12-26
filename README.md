@@ -133,3 +133,9 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
     Pedestrian: 0.5841
     mAP: 0.6665
     - 7,66, 10,28, 15,116, 21,45, 31,192, 37,68, 61,107, 83,182, 123,237
+    Epoch 00051: loss did not improve from 11.21383
+    Epoch 00051: early stopping
+    Car: 0.8486
+    Cyclist: 0.6377
+    Pedestrian: 0.5881
+    mAP: 0.6915
