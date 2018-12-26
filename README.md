@@ -139,8 +139,8 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
     Cyclist: 0.6377
     Pedestrian: 0.5881
     mAP: 0.6915
- 5. KITTI
-    1.
+ 5. KITTI 忽略Mic类和Not Care类，其余7类
+    1. 参数跟4.2相同
     Epoch 00025: loss did not improve from 13.12234
     Epoch 00025: early stopping
     Car: 0.8017
