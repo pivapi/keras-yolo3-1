@@ -124,10 +124,11 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
    - 平台：2070，虚拟环境：MRCNN
    - lr 1e-4 mAP=0.6258
      lr 5e-4 mAP=0.5353
-4. 
+4. KITTI训练结果
+    - lr:1e-4 其他参数默认
     Epoch 00031: loss did not improve from 8.93820
     Epoch 00031: early stopping
     Car: 0.8372
     Cyclist: 0.5783
     Pedestrian: 0.5841
-mAP: 0.6665
+    mAP: 0.6665
