@@ -125,17 +125,29 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
    - lr 1e-4 mAP=0.6258
      lr 5e-4 mAP=0.5353
 4. KITTI训练结果[将labels合并成三类]
-    - lr:1e-4 其他参数默认
+    1. lr:1e-4 其他参数默认
     Epoch 00031: loss did not improve from 8.93820
     Epoch 00031: early stopping
     Car: 0.8372
     Cyclist: 0.5783
     Pedestrian: 0.5841
     mAP: 0.6665
-    - 重新生成anchors:7,66, 10,28, 15,116, 21,45, 31,192, 37,68, 61,107, 83,182, 123,237
+    2. 重新生成anchors:7,66, 10,28, 15,116, 21,45, 31,192, 37,68, 61,107, 83,182, 123,237
     Epoch 00051: loss did not improve from 11.21383
     Epoch 00051: early stopping
     Car: 0.8486
     Cyclist: 0.6377
     Pedestrian: 0.5881
     mAP: 0.6915
+ 5. KITTI
+    1.
+    Epoch 00025: loss did not improve from 13.12234
+    Epoch 00025: early stopping
+    Car: 0.8017
+    Cyclist: 0.4698
+    Pedestrian: 0.5721
+    Person_sitting: 0.1993
+    Tram: 0.6133
+    Truck: 0.7080
+    Van: 0.4755
+    mAP: 0.5485
