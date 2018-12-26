@@ -132,3 +132,4 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
     Cyclist: 0.5783
     Pedestrian: 0.5841
     mAP: 0.6665
+    - 7,66, 10,28, 15,116, 21,45, 31,192, 37,68, 61,107, 83,182, 123,237
