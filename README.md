@@ -151,3 +151,4 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
     Truck: 0.7080
     Van: 0.4755
     mAP: 0.5485
+    2. 去掉Early Stop,再训练10epochs
