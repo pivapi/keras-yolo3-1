@@ -151,7 +151,7 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
     Truck: 0.7080
     Van: 0.4755
     mAP: 0.5485
-    2. 去掉Early Stop,再训练10epochs
+    2. 去掉Early Stop,再训练10epochs，其余参数跟5.1相同，表现有所提升，但是其实早就进入eraly stop了
     Epoch 00010: ReduceLROnPlateau reducing learning rate to 9.999999747378752e-07.
     Car: 0.8119
     Cyclist: 0.5271
