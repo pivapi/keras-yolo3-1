@@ -23,6 +23,7 @@ VOC (20 classes) (http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) | 72% | https
 Grab the pretrained weights of yolo3 from https://pjreddie.com/media/files/yolov3.weights.
 
 ```python yolo3_one_file_to_detect_them_all.py -w yolo3.weights -i dog.jpg``` 
+***这个利用在COCO训练好的模型来做预测，但没有将怎么在COCO上面训练**
 
 ## Training
 
