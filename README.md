@@ -152,3 +152,12 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
     Van: 0.4755
     mAP: 0.5485
     2. 去掉Early Stop,再训练10epochs
+    Epoch 00010: ReduceLROnPlateau reducing learning rate to 9.999999747378752e-07.
+    Car: 0.8119
+    Cyclist: 0.5271
+    Pedestrian: 0.5585
+    Person_sitting: 0.2144
+    Tram: 0.7243
+    Truck: 0.7469
+    Van: 0.5679
+    mAP: 0.5930
