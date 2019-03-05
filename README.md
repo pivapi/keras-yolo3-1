@@ -162,3 +162,8 @@ Compute the mAP performance of the model defined in `saved_weights_name` on the 
     Truck: 0.7469
     Van: 0.5679
     mAP: 0.5930
+    
+    ### 
+    I've uploaded to the Baidu Cloud,you can download it via:
+Link：https://pan.baidu.com/s/12LAfC5MPOeaTli8q1JeujQ
+Code：mawu
